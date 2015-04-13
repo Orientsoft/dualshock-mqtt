@@ -1,0 +1,15 @@
+{
+  "name": "dualshock-mqtt",
+  "version": "1.0.0",
+  "description": "Send dualshock controller command to mqtt broker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inoc603",
+  "license": "ISC",
+  "dependencies": {
+    "dualshock-controller": "^0.6.7",
+    "mqtt": "^1.1.2"
+  }
+}
